@@ -11,7 +11,7 @@ Image Formation, Geometry and Projections, Photometry, Color Space, Edge Detecti
   
 ( o ) A calibrated camera projects 3D points onto the image plane due to their linear constraint by 2 planes :
 
-![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Hw_1/images/3D_projection_to_pixels.png)
+![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/3D_projection_to_pixels.png)
 
 ( o ) Using the the reduced dataset's covariance, we can extract its eigenvectors, namely == EigenFaces :
 
