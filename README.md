@@ -15,8 +15,8 @@ Image Formation, Geometry and Projections, Photometry, Color Space, Edge Detecti
 
 ( o ) Using the the reduced dataset's covariance, we can extract its eigenvectors, namely == EigenFaces :
 
-![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Hw_1/images/PCA.png)
+![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/PCA.png)
 
 ( o ) Edge detection using Hough-Transform (upper) and Laplacian Pyramid as an image blender (lower) :
 
-![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Hw_1/images/Hough_Blend.png)
+![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/Hough_Blend.png)
