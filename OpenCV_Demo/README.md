@@ -1,5 +1,7 @@
 # Non-ML CV project
 
+Integreating several basic concepts in computer vision such as : DoG, dilation, and Hough Transform to create a real-time analysis, yet simple level of object detection.
+
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/OpenCV_Demo/Upload/opencv_img.png)
 
 ## Requirements
