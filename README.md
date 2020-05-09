@@ -26,7 +26,7 @@ Edge detection using Hough-Transform (upper) and Laplacian Pyramid as an image b
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/Hough_Blend.png)
 
 # Course homeworks
-Along the course I have implementesd several small-size projects in different CV topis, available [here]()
+Along the course I have implementesd several small-size projects in different CV topis, available [here](https://github.com/Daniboy370/Computer-Vision/tree/master/Homeworks)
 
 ## Requirements
 Python 3.4, TensorFlow 1.3, Keras 2.0.8 and other common packages listed in `requirements.txt`.
