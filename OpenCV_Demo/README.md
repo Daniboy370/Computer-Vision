@@ -1,3 +1,5 @@
+# Non-ML computer vision implementation
+
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/OpenCV_Demo/Upload/opencv_img.png)
 
 ## Requirements
