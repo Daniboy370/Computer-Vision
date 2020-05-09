@@ -10,17 +10,17 @@ Image Formation, Geometry and Projections, Photometry, Color Space, Edge Detecti
 
  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/OpenCV_Demo/Upload/Github_GIF.gif)
   
-## 
-( o ) A calibrated camera projects 3D points onto the image plane due to their linear constraint by 2 planes :
+#
+A calibrated camera projects 3D points onto the image plane due to their linear constraint by 2 planes :
 
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/3D_projection_to_pixels.png)
 
 ## 
-Using the the reduced dataset's covariance, we can extract its eigenvectors, namely == EigenFaces :
+Dimensionality reduction using PCA concept, we can extract its eigenvectors, namely == EigenFaces :
 
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/PCA.png)
 
 ## 
-( o ) Edge detection using Hough-Transform (upper) and Laplacian Pyramid as an image blender (lower) :
+Edge detection using Hough-Transform (upper) and Laplacian Pyramid as an image blender (lower) :
 
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/Hough_Blend.png)
