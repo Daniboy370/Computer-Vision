@@ -29,4 +29,4 @@ Edge detection using Hough-Transform (upper) and Laplacian Pyramid as an image b
 Python 3.4, OpenCV (cv2) and other common packages listed in `requirements.txt` at the [OpenCV_demo](https://github.com/Daniboy370/Computer-Vision/blob/master/OpenCV_Demo/OpenCV_demo.py) directory.
 
 ## Course homeworks
-Along the course I have implementesd several small-size projects in different CV topis, available [here](https://github.com/Daniboy370/Computer-Vision/tree/master/Homeworks)
+Along the course I have implementesd several small-size projects in different CV topics, available [here](https://github.com/Daniboy370/Computer-Vision/tree/master/Homeworks)
