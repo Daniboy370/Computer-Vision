@@ -9,6 +9,7 @@ Image Formation, Geometry and Projections, Photometry, Color Space, Edge Detecti
 
  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/OpenCV_Demo/Upload/Github_GIF.gif)
   
+## 
 ( o ) A calibrated camera projects 3D points onto the image plane due to their linear constraint by 2 planes :
 
 ![alt text](https://github.com/Daniboy370/Computer-Vision/blob/master/Homeworks/Hw_1/images/3D_projection_to_pixels.png)
