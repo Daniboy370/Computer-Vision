@@ -4,6 +4,8 @@ Integreating several basic concepts in computer vision such as : DoG, dilation, 
 
 <img src='https://github.com/Daniboy370/Computer-Vision/raw/master/OpenCV_Demo/Upload/Github_GIF.gif' width=600 class='center'/>
 
+%<img src='https://github.com/Daniboy370/Computer-Vision/raw/master/OpenCV_Demo/Upload/Github_GIF.gif' alt="Paris" class="center"/>
+
 
 ## Requirements
 Python 3.4, OpenCV (cv2) and other common packages listed in `requirements.txt`.
