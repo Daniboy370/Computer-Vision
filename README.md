@@ -3,7 +3,11 @@
 046195 - [Computer Vision](https://webcourse.cs.technion.ac.il/236873/Winter2019-2020/).
 
 **Syllabus** :
-Image Formation, Geometry and Projections, Photometry, Color Space, Edge Detection, Scale Space, Image Features, Dimensionality Reduction, Classification, Segmentation, Recognition, Motion Analysis. Deoms :
+Image Formation, Geometry and Projections, Photometry, Color Space, Edge Detection, Scale Space, Image Features, Dimensionality Reduction, Classification, Segmentation, Recognition, Motion Analysis. 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1uoPJWJVVOb8dyNc0XwjNe68LjzH59-XU/view?usp=sharing)
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/7/7c/Kaggle_logo.png' width=65 />](https://www.kaggle.com/daniboy370/tutorial-object-recognition-with-opencv)
+
 
 ## 
 **OpenCV**  ::  a classic implementation of lane and objects detection, using simple DoG, dilation and *Hough Transform* :
