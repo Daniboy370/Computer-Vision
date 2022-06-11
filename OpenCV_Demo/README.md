@@ -2,7 +2,8 @@
 
 Integreating several basic concepts in computer vision such as : DoG, dilation, and Hough Transform to create a real-time analysis, yet simple level of object detection.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src='https://github.com/Daniboy370/Computer-Vision/raw/master/OpenCV_Demo/Upload/Github_GIF.gif' width=600 class='center'/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src='https://github.com/Daniboy370/MEMS-IMU-Denoising/blob/main/Figrues/VID_denoising.gif' width=600 class='center'/>
+<!-- https://github.com/Daniboy370/MEMS-IMU-Denoising/blob/main/Figrues/VID_denoising.gif?raw=true -->
 
 ## Requirements
 Python 3.4, OpenCV (cv2) and other common packages listed in `requirements.txt`.
